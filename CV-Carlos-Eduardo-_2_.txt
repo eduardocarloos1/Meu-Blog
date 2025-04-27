@@ -1,0 +1,65 @@
+                           CARLOS EDUARDO DA SILVA PINHEIRO
+                                                (61) 9 8244-0668
+                                                carloseduardodsp057@gmail.com
+                                                Q 3, Conj E, Lote 19, Casa 2, Recanto das Emas
+
+
+Formação Acadêmica
+Análise e Desenvolvimento de Sistemas
+Instituição: Anhanguera
+ Status: 5º Semestre
+                                               Experiência Profissional
+                                               Programação em Java
+Cursos Complementares                           SET 2024 - DEZ 2024
+                                                  Sistema de gestão de inventário.
+   Excel com VBA e Dashboard.                     Desenvolvimento de um software de controle de estoque em
+   HTML e CSS - Criação de Websites .             Java, aplicando conceitos de orientação a objetos. Implementou
+   Programação em Java.                           funcionalidades de cadastro, controle de entrada e saída de
+                                                  produtos, além de gerar relatórios customizáveis.
+   Redes de Computadores e a Internet das
+   Coisas.
+   Sensores, Microcontroladores e              Desenvolvimento Web com HTML e CSS
+   Programação em Internet das Coisas.          SET 2024 - DEZ 2024
+
+   Novos Desenvolvimentos em IoT.                  Criação de um website institucional.
+                                                   Criar layout e a estrutura de um site corporativo utilizando HTML e
+   Introdução à Linguagem Python.
+                                                   CSS, garantindo uma navegação intuitiva e responsiva em diferentes
+   Introdução à Análise de Dados com               dispositivos.
+   Python.
+                                               Desenvolvimento de Sistemas e Automação com Excel VBA
+   Estruturas de Dados em Python.               SET 2023 - OUT 2023
+
+                                                   Automação de relatórios gerenciais.
+                                                   Criação de dashboards interativos usando Excel e VBA para
+                                                   automatizar a consolidação de dados financeiros
+Habilidades
+                                               Manutenção de Sistemas
+                                                JAN 2023 - ABRIL 2023
+   Aplicar os conceitos de orientação a
+                                                   Atualização de um software legado.
+   objetos na construção de softwares.             Análise e correção de bugs em um sistema de gestão empresarial
+   Organizar conteúdo textual para web.            existente, além de realizar atualizações para atender às novas
+   Integrar linguagens de estilo e                 necessidades do cliente.
+   marcação de conteúdo.
+   Desenvolver, testar e implementar           Técnico de Manutenção de Computadores
+                                                JAN 2022 - OUT 2024
+   sistemas com base na definição de
+                                                    Manutenção Preventiva e Corretiva de Computadores.
+   requisitos e funcionalidades.                    Diagnóstico e Reparos.
+   Elaborar a documentação do sistema.              Configuração de Software e Sistemas Operacionais.
+   Na documentação, é preciso incluir               Segurança e Backup.
+                                                    Atualizações e Upgrades.
+   tutoriais, manuais para o usuário, rotina        Suporte ao Usuário.
+   de manutenção e padrões para novas               Suporte Técnico Remoto e Presencial.
+   versões.
+   Fazer a manutenção de sistemas
+                                               Exército Brasileiro
+                                                MAR 2021 - Até o momento
+   existentes e reparos sempre que
+                                                    Responsável por atividades na área de pagamento pessoal e
+   houver necessidade..                             seleção de recursos humanos.
+                                                    Responsável por criar planilhas de controle de consumo de
+                                                    combustível.
+                                                    Responsável pelo controle de planilhas de escala de serviço.
+
